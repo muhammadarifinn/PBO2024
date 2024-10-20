@@ -45,7 +45,7 @@ public class tugas {
                     System.out.println("Pilihan Tidak Tersedia");
                     break;
             }
-        } while (pilih != 5);
+        } while (pilih != 4);
         
     }
 }
